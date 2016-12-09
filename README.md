@@ -1,8 +1,11 @@
 # InkConsult
 Final Project for Software Engineering
-Documentation for InkConsult
+
+Documentation for InkConsult-
 Kiersten Ridgel, Sean Gerving, Jeff Ross
+
 December 2016
+
 Legalities
 	The purpose of the InkConsult Application(hereafter referred to as Inkconsult) is designed only for the use of Fossil Tattoo in Fruita, CO., its managers and relevant employees. It has not been modified to accommodate any other party or service.
 	InkConsult was designed, coded and implemented by Kiersten Ridgel, Sean Gerving and Jeff Ross, senior computer science students of Colorado Mesa University. It is not a professionally designed application and therefore may be flawed at the time of acquirement by Fossil Tattoo. The students are not responsible for any changes made to InkConsult, past December 16, 2016, although they reserve the privilege to copy and show the code and pages of InkConsult as completed on December 16, 2016, for the purposes of resume portfolio material. The application itself is the intellectual property of Kiersten Ridgel, Sean Gerving and Jeff Ross.
